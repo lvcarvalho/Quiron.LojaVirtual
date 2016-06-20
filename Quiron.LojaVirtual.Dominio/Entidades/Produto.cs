@@ -19,5 +19,6 @@ namespace Quiron.LojaVirtual.Dominio.Entidades
 
         public string Categoria { get; set; }
 
+
     }
 }
