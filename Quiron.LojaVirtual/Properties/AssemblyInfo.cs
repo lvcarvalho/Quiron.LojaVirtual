@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Quiron.LojaVirtual.Dominio")]
+[assembly: AssemblyTitle("Quiron.LojaVirtual")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Quiron.LojaVirtual.Dominio")]
+[assembly: AssemblyProduct("Quiron.LojaVirtual")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0a674cc7-0f00-49c1-9a9f-34c730e5482f")]
+[assembly: Guid("56a04612-d1b7-4110-803b-20e07236a5cd")]
 
 // Version information for an assembly consists of the following four values:
 //
